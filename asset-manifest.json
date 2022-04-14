@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EllieJ87/star-wars-app/static/css/main.d1054ff3.css",
+    "main.js": "/EllieJ87/star-wars-app/static/js/main.7d1ac730.js",
+    "index.html": "/EllieJ87/star-wars-app/index.html",
+    "main.d1054ff3.css.map": "/EllieJ87/star-wars-app/static/css/main.d1054ff3.css.map",
+    "main.7d1ac730.js.map": "/EllieJ87/star-wars-app/static/js/main.7d1ac730.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1054ff3.css",
+    "static/js/main.7d1ac730.js"
+  ]
+}
